@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 This is a movie recommendation system based on Content-Based and Collaborative-Filtering approaches for recommendations
 
-In this project we will be using 2 widely adopted approaches of building recommender systems, to recommend movies to our user.
+In this project I have used 2 widely adopted approaches of building recommender systems, to recommend movies to users.
 
 The 2 widely used approaches are -
 
