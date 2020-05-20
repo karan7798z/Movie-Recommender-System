@@ -10,9 +10,9 @@ In this, recommendations are provided to users on basis of their profile, which 
 
 I have broadly used 3 different types of metrics to recommend a movie using this methodology - 
 
-Recommendations on basis of genres
-Recommendations on basis of movie plot description
-Recommendations on basis of credits, genres and keywords
+* Recommendations on basis of genres
+* Recommendations on basis of movie plot description
+* Recommendations on basis of credits, genres and keywords
 
 A sample recommendation list for an input movie - 'The Dark Knight', using the 3rd type of content-based recommendation engine, returned following output - 
 
